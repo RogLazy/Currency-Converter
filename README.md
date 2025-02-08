@@ -24,4 +24,6 @@ Sudoku Solver
 
 All the challenges descriptions can be found in the site : https://favtutor.com/blogs/cpp-projects-for-beginners
 
-Challenge started at 29/01/2005
+Challenge started at 29/01/2025
+
+First Challange finished at 08/02/2005
